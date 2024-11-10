@@ -19,3 +19,7 @@
 # Python-Practical-11
 ![Screenshot 2024-11-11 001529](https://github.com/user-
 attachments/assets/9b171c8b-b654-4ec9-8ad4-f19f6e86d34b)
+# Python-Practical-12
+![Screenshot 2024-11-11 005645](https://github.com/user-attachments/assets/69737dd6-be3f-48a6-ba42-9eac2bb13fa6)
+![Screenshot 2024-11-11 005706](https://github.com/user-attachments/assets/a6795214-5172-43ca-a129-8c8dc1533a89)
+
