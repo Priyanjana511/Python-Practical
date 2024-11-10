@@ -1,21 +1,21 @@
 # Python-Practical-01
-![Screenshot 2024-11-11 000932](https://github.com/user-attachments/assets/c737bd6f-6248-4ed3-be01-2870b2679afc)
-![Screenshot 2024-11-11 003040](https://github.com/user-attachments/assets/09c2a360-0111-4655-8c01-6c3a3b80b74f)
+![Screenshot 2024-11-11 000932](https://github.com/user-attachments/assets/9985ddc5-6b6e-4c3f-adc2-261acc27577f)
+![Screenshot 2024-11-11 003040](https://github.com/user-attachments/assets/4e054b0c-b08f-4442-a2c5-e11e6d902f47)
 # Python-Practical-02
-![Screenshot 2024-11-11 001226](https://github.com/user-a
-![Screenshot 2024-11-11 003344](https://github.com/user-attachments/assets/b0e3b3dd-88f7-4405-9296-bd2001ad8a9b)
-ttachments/assets/f997964c-75c2-46d6-b421-224def19c803)
-![Screenshot 2024-11-11 003417](https://github.com/user-attachments/assets/e789a982-708c-4314-8140-46f1a3b2242f)
+![Screenshot 2024-11-11 001226](https://github.com/user-attachments/assets/8a6ba757-8a96-48c5-b410-d95106a12feb)
+![Screenshot 2024-11-11 003344](https://github.com/user-attachments/assets/67ce6c84-8836-4ae0-9216-1760ad1af648)
 # Python-Practical-03
-![Screenshot 2024-11-11 001357](https://github.com/user-attachments/assets/1c1912d7-ab42-4e80-8e73-a8b39add6137)
-![Screenshot 2024-11-11 003448](https://github.com/user-attachments/assets/03af2785-e87c-42e4-a9b4-2253d0e05e3d)
+![Screenshot 2024-11-11 001357](https://github.com/user-attachments/assets/8e93955c-33ac-4f57-9b0c-d1ba19e12fc8)
+![Screenshot 2024-11-11 003417](https://github.com/user-attachments/assets/a1ba4f56-186a-4206-a592-ad9d6dca99b8)
 # Python-Practical-08
-![Screenshot 2024-11-11 001426](https://github.com/user-attachments/assets/9b5ce8bb-5a67-4e10-a67a-1de204d7dba3)
-![Screenshot 2024-11-11 003512](https://github.com/user-attachments/assets/9d3916ec-5cde-4fd2-ab61-f0ed256195ba)
+![Screenshot 2024-11-11 001426](https://github.com/user-attachments/assets/e3e4677c-2482-4b28-afa0-909d2ceda5a7)
+![Screenshot 2024-11-11 003448](https://github.com/user-attachments/assets/34040529-ee4f-432d-a919-d5272ff58750)
 # Python-Practical-09
-![Screenshot 2024-11-11 001448](https://github.com/user-attachments/assets/7bb6c64d-c826-4444-9d81-3e8492d43006)
-![Screenshot 2024-11-11 003647](https://github.com/user-attachments/assets/a072ed12-4040-481f-a86f-8e4df7c3f5d0)
+![Screenshot 2024-11-11 001448](https://github.com/user-attachments/assets/9d92676f-acac-4da3-80c2-95a3bee94940)
+![Screenshot 2024-11-11 003512](https://github.com/user-attachments/assets/2c2dbe30-5e1a-419d-a976-3d416c23479f)
 # Python-Practical-10
-![Screenshot 2024-11-11 001505](https://github.com/user-attachments/assets/722ae01b-0172-4692-8c7f-5194a077ab31)
+![Screenshot 2024-11-11 001505](https://github.com/user-attachments/assets/9914254d-334a-43ee-a97b-56fd4e44a0d7)
+![Screenshot 2024-11-11 003647](https://github.com/user-attachments/assets/23baf5f8-9226-484b-a7dd-8f991c554224)
 # Python-Practical-11
-![Screenshot 2024-11-11 001529](https://github.com/user-attachments/assets/0f9c6756-78d8-4d07-b947-1f8bbe1937dd)
+![Screenshot 2024-11-11 001529](https://github.com/user-
+attachments/assets/9b171c8b-b654-4ec9-8ad4-f19f6e86d34b)
